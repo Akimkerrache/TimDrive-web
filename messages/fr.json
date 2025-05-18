@@ -1,0 +1,176 @@
+{
+  "Layout": {
+    "Navigation": {
+      "AboutUs": {
+        "title": "À propos",
+        "href": "/about"
+      },
+      "PrivacyPolicy": {
+        "title": "Politique ",
+        "href": "/privacy"
+      }
+    },
+    "Config": {
+      "logo": "/tdlogo.jpeg",
+      "cta": "Explorer le cours"
+    }
+  },
+  "HomePage": {
+    "Hero": {
+      "title": "TimDrive : Votre partenaire de livraison de confiance en Algérie",
+      "description": "Des services de livraison rapides, fiables et spécialisés à portée de main. Du carburant aux courses, TimDrive vous apporte ce dont vous avez besoin, où vous en avez besoin.",
+      "enrollNow": "Télécharger l'application"
+    },
+    "WhyUs": {
+      "title": "Pourquoi choisir TimDrive",
+      "points": {
+        "point1": {
+          "title": "Livraison de carburant spécialisée",
+          "description": "TimDrive livre de l'essence, du diesel et du gaz GPL directement à votre emplacement avec des véhicules spécialement équipés, garantissant sécurité et commodité."
+        },
+        "point2": {
+          "title": "Services de livraison polyvalents",
+          "description": "De l'eau et des courses aux appareils électroménagers et services de déménagement, notre application répond à tous vos besoins de livraison en un seul endroit."
+        },
+        "point3": {
+          "title": "Suivi en temps réel",
+          "description": "Suivez votre commande en direct sur la carte, de l'attribution du chauffeur à la livraison, pour une transparence totale et une tranquillité d'esprit."
+        },
+        "point4": {
+          "title": "Chauffeurs fiables",
+          "description": "Nos chauffeurs vérifiés sont formés pour livrer efficacement et en toute sécurité, garantissant que vos articles arrivent à temps, à chaque fois."
+        }
+      },
+      "enrollNow": "Télécharger l'application"
+    }
+  },
+  "AboutPage": {
+    "Section": {
+      "title": "À propos de TimDrive",
+      "description": "TimDrive est le principal service de livraison en Algérie, révolutionnant la manière dont les produits essentiels vous parviennent. Basée en Algérie, notre application mobile connecte les clients et les chauffeurs de manière transparente, offrant une livraison spécialisée de carburant (essence, diesel, gaz GPL), d'eau, de courses, d'appareils électroménagers et même de services de déménagement. Avec une flotte de véhicules spécialement équipés et une application conviviale, les clients peuvent commander facilement, tandis que nos chauffeurs dévoués garantissent des livraisons rapides et sécurisées. Que ce soit pour alimenter votre véhicule ou meubler votre maison, TimDrive est là pour offrir commodité, qualité et confiance à travers l'Algérie."
+    }
+  },
+  "PrivacyPolicy": {
+    "Section": {
+      "title": "Politique de confidentialité de TimDrive",
+      "lastUpdated": "Dernière mise à jour : 17 mai 2025",
+      "introduction": "Chez TimDrive, nous nous engageons à protéger votre vie privée et à garantir la sécurité de vos informations personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos données lorsque vous utilisez notre application mobile, notre site web ou les services fournis par TimDrive, une entreprise de livraison basée en Algérie spécialisée dans le carburant, l'eau, les courses, les appareils électroménagers et les services de déménagement. En utilisant nos services, vous acceptez les pratiques décrites dans cette politique.",
+      "informationCollected": {
+        "title": "1. Informations que nous collectons",
+        "description": "Nous collectons des informations pour fournir et améliorer nos services de livraison. Les types d'informations que nous pouvons collecter incluent :",
+        "personalInformation": {
+          "title": "a. Informations personnelles",
+          "items": [
+            "Profil client : Lorsque vous vous inscrivez en tant que client, nous collectons votre nom, numéro de téléphone, adresse e-mail, adresse de livraison et détails de paiement pour traiter les commandes et livrer les produits.",
+            "Profil chauffeur : Si vous vous inscrivez en tant que chauffeur, nous collectons votre nom, numéro de téléphone, adresse e-mail, détails du véhicule, documents d'identification et informations bancaires pour le traitement des paiements.",
+            "Données de localisation : Pour les clients et les chauffeurs, nous collectons des données de localisation en temps réel pour faciliter le suivi des commandes, l'optimisation des itinéraires de livraison et l'amélioration des services. Les clients fournissent des adresses de livraison, et les chauffeurs partagent leurs emplacements en direct pendant les livraisons."
+          ]
+        },
+        "transactionInformation": {
+          "title": "b. Informations sur les transactions",
+          "items": [
+            "Détails sur vos commandes, tels que les produits commandés (par exemple, type de carburant, courses, appareils), les lieux de livraison, les horodatages et les montants des paiements.",
+            "Gains des chauffeurs, détails des trajets et livraisons effectuées."
+          ]
+        },
+        "usageData": {
+          "title": "c. Données d'utilisation",
+          "items": [
+            "Informations sur la manière dont vous interagissez avec notre application, y compris les pages visitées, les fonctionnalités utilisées et le temps passé sur l'application.",
+            "Informations sur l'appareil, telles que l'adresse IP, le type d'appareil, le système d'exploitation et la version de l'application."
+          ]
+        },
+        "communications": {
+          "title": "d. Communications",
+          "items": [
+            "Messages, commentaires ou demandes que vous envoyez via l'application ou les canaux de support client.",
+            "Journaux d'appels ou enregistrements (avec votre consentement) lorsque vous contactez notre équipe de support."
+          ]
+        }
+      },
+      "howWeUseInformation": {
+        "title": "2. Comment nous utilisons vos informations",
+        "description": "Nous utilisons vos informations pour fournir, maintenir et améliorer nos services. Les utilisations spécifiques incluent :",
+        "items": [
+          "Traitement des commandes : Pour mettre en relation les clients avec les chauffeurs, traiter les paiements et livrer des produits comme le carburant, l'eau, les courses ou les appareils à l'adresse indiquée.",
+          "Opérations des chauffeurs : Pour attribuer des commandes aux chauffeurs, suivre les livraisons en temps réel et calculer les gains.",
+          "Amélioration des services : Pour analyser les modèles d'utilisation, optimiser les itinéraires de livraison et améliorer les fonctionnalités de l'application.",
+          "Communication : Pour envoyer des confirmations de commande, des mises à jour de livraison, des offres promotionnelles ou répondre à vos demandes.",
+          "Sécurité : Pour vérifier les identités, prévenir la fraude et garantir la sécurité des chauffeurs et des clients pendant les livraisons.",
+          "Conformité légale : Pour respecter les lois algériennes, les réglementations fiscales et autres obligations légales."
+        ]
+      },
+      "howWeShareInformation": {
+        "title": "3. Comment nous partageons vos informations",
+        "description": "Nous ne vendons pas vos informations personnelles. Cependant, nous pouvons partager vos données dans les cas suivants :",
+        "items": [
+          "Avec les chauffeurs et les clients : Les informations des clients (nom, numéro de téléphone, adresse de livraison) sont partagées avec les chauffeurs pour exécuter les commandes. Les informations des chauffeurs (nom, numéro de téléphone, localisation) sont partagées avec les clients pour le suivi.",
+          "Fournisseurs de services : Nous collaborons avec des fournisseurs tiers pour le traitement des paiements, le stockage cloud, l'analyse et le support client. Ces fournisseurs sont liés par des accords de confidentialité et n'accèdent qu'aux données nécessaires à leurs services.",
+          "Exigences légales : Nous pouvons divulguer vos informations pour respecter les lois algériennes, répondre aux ordonnances judiciaires ou protéger les droits, la propriété ou la sécurité de TimDrive, de nos utilisateurs ou du public.",
+          "Transferts d'entreprise : Si TimDrive est impliqué dans une fusion, une acquisition ou une vente d'actifs, vos informations peuvent être transférées dans le cadre de la transaction, avec des garanties pour protéger votre vie privée."
+        ]
+      },
+      "dataSecurity": {
+        "title": "4. Sécurité des données",
+        "description": "Nous mettons en œuvre des mesures de sécurité conformes aux normes de l'industrie pour protéger vos données, notamment :",
+        "items": [
+          "Chiffrement des informations sensibles (par exemple, détails de paiement) pendant la transmission et le stockage.",
+          "Contrôles d'accès pour limiter l'accès aux données aux seules personnes autorisées.",
+          "Audits de sécurité réguliers pour identifier et corriger les vulnérabilités.",
+          "Malgré ces mesures, aucun système n'est totalement sécurisé. Nous vous encourageons à utiliser des mots de passe forts et à éviter de partager des informations sensibles inutilement."
+        ]
+      },
+      "yourChoicesAndRights": {
+        "title": "5. Vos choix et droits",
+        "description": "Vous avez le contrôle sur vos informations personnelles. Vos droits incluent :",
+        "items": [
+          "Accès et mise à jour : Vous pouvez consulter et mettre à jour vos informations de profil (nom, téléphone, adresse) directement dans l'application TimDrive.",
+          "Données de localisation : Vous pouvez désactiver le partage de localisation dans les paramètres de votre appareil, mais cela peut limiter les fonctionnalités de l'application (par exemple, suivi des commandes ou affectation des livraisons).",
+          "Communications marketing : Vous pouvez vous désinscrire des e-mails promotionnels ou des notifications via les paramètres de l'application.",
+          "Suppression de compte : Vous pouvez demander la suppression de votre compte en nous contactant à support@timdrive.dz. Nous traiterons votre demande conformément aux lois algériennes sur la protection des données, bien que certaines données puissent être conservées à des fins légales ou opérationnelles.",
+          "Pour exercer ces droits, veuillez nous contacter à support@timdrive.dz."
+        ]
+      },
+      "dataRetention": {
+        "title": "6. Conservation des données",
+        "description": "Nous conservons vos informations personnelles uniquement aussi longtemps que nécessaire pour atteindre les objectifs décrits dans cette politique ou pour respecter les exigences légales. Par exemple :",
+        "items": [
+          "Les données des commandes des clients sont conservées pendant 5 ans pour respecter les lois fiscales et comptables algériennes.",
+          "Les gains et les données de trajet des chauffeurs sont conservés pendant 7 ans à des fins d'audit.",
+          "Les comptes inactifs peuvent être supprimés après 2 ans d'inactivité, sauf si requis par la loi."
+        ]
+      },
+      "childrensPrivacy": {
+        "title": "7. Confidentialité des enfants",
+        "description": "Les services de TimDrive ne sont pas destinés aux personnes de moins de 18 ans. Nous ne collectons pas sciemment d'informations personnelles d'enfants. Si vous pensez que nous avons collecté des données d'un enfant, veuillez nous contacter à support@timdrive.dz, et nous prendrons des mesures pour les supprimer."
+      },
+      "internationalDataTransfers": {
+        "title": "8. Transferts internationaux de données",
+        "description": "TimDrive est basé en Algérie, et vos données sont principalement stockées et traitées dans le pays. Si nous transférons des données à des fournisseurs de services hors Algérie, nous nous assurons qu'ils respectent des normes de protection des données équivalentes à celles de l'Algérie, en utilisant des contrats ou d'autres garanties."
+      },
+      "cookiesAndTracking": {
+        "title": "9. Cookies et suivi",
+        "description": "Notre application et notre site web peuvent utiliser des cookies ou des technologies similaires pour améliorer l'expérience utilisateur et analyser l'utilisation. Vous pouvez gérer les préférences de cookies via les paramètres de votre appareil ou de votre navigateur, bien que la désactivation des cookies puisse affecter les fonctionnalités de l'application."
+      },
+      "changesToPolicy": {
+        "title": "10. Modifications de cette politique de confidentialité",
+        "description": "Nous pouvons mettre à jour cette politique de confidentialité pour refléter les changements dans nos pratiques ou les exigences légales. Nous vous informerons des modifications importantes par e-mail, notifications dans l'application ou en publiant la politique mise à jour sur notre site web. Votre utilisation continue de nos services après ces modifications constitue une acceptation de la politique révisée."
+      },
+      "contactUs": {
+        "title": "11. Nous contacter",
+        "description": "Si vous avez des questions, des préoccupations ou des demandes concernant cette politique de confidentialité ou vos données, veuillez nous contacter à :",
+        "items": [
+          "E-mail : support@timdrive.dz",
+          "Adresse : Siège de TimDrive, Alger, Algérie",
+          "Téléphone : +213-123-456-789",
+          "Nous visons à répondre à toutes les demandes dans un délai de 30 jours."
+        ]
+      },
+      "governingLaw": {
+        "title": "12. Loi applicable",
+        "description": "Cette politique de confidentialité est régie par les lois de l'Algérie. Tout litige découlant de cette politique sera soumis à la juridiction exclusive des tribunaux d'Alger, Algérie."
+      },
+      "closing": "Merci de choisir TimDrive. Nous apprécions votre confiance et nous engageons à protéger votre vie privée."
+    }
+  }
+}
